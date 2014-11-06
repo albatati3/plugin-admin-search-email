@@ -3,7 +3,7 @@
 Plugin Name: Admin search email
 Plugin URI: http://www.osclass.org/
 Description: Helps to find out where an email is used
-Version: 1.0
+Version: 1.0.0
 Author: Osclass
 Author URI: http://www.osclass.org/
 Short Name: admin_search_email
